@@ -71,8 +71,5 @@ Feel free to explore, contribute, and make the most out of this Movie Recommenda
 
 ![image](https://github.com/user-attachments/assets/4076e5db-d27c-4be0-b709-c06dbc41d78e)
 
-if any problem occurs reach me out by
-Instagram:prajwal_102
-linkden:prajwal marapur
-git hub:prajwal590
+
 
