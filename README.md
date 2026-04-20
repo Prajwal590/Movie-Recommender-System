@@ -8,7 +8,7 @@ This repository contains the code and resources for a Movie Recommendation Syste
 - **TMDB API Integration**: Retrieves detailed movie information, including titles, genres, and release dates, from the TMDB database.
 - **User Interaction**: Enables users to rate movies, view detailed information, and explore similar movies.
 - **Data Security**: Maintains the privacy and security of user data.
-- **Mobile-Responsive Design**: Optimized for both desktop and mobile devices.
+- **Mobile-Responsive Design**: Optimized for both desktop and mobile devices
 
 ## Project Structure
 
