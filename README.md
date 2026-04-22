@@ -66,7 +66,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-TMDB for providing the movie data through their API.
+TMDB for providing the movie data through their API.{male sure that you will get your own api key}
 Streamlit for creating a simple way to build data-driven applications.
 Feel free to explore, contribute, and make the most out of this Movie Recommendation System!
 
