@@ -2,6 +2,7 @@
 
 This repository contains the code and resources for a Movie Recommendation System that utilizes the TMDB API to provide personalized movie recommendations. The system is designed to centralize movie ratings, offer tailored suggestions, and facilitate an interactive user experience.
 
+
 ## Key Features
 
 - **Personalized Recommendations**: Suggests movies based on user preferences and movie ratings.
